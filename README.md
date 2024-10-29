@@ -29,9 +29,9 @@ A simple and elegant To-Do List web application built with HTML, CSS, and JavaSc
 
 
 todo-app/
-├── index.html        # Main HTML structure
-├── styles.css        # CSS for styling the app
-└── script.js         # JavaScript for functionality
+- ├── index.html        # Main HTML structure
+- ├── styles.css        # CSS for styling the app
+- └── script.js         # JavaScript for functionality
 
 ## Technologies Used
 - **HTML5**: For structure.
