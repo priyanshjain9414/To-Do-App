@@ -18,3 +18,26 @@ A simple and elegant To-Do List web application built with HTML, CSS, and JavaSc
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/priyanshjain9414/todo-app.git
+
+## Usage
+
+- **Add a Task**: Type a task in the input field and click the **+** button to add it.
+- **Delete a Task**: Click the trash icon next to any task to delete it.
+- **Toggle Theme**: Click the sun/moon icon at the top to toggle between dark and light modes.
+
+## Project Structure
+
+```bash
+dark-theme-todo-app/
+├── index.html        # Main HTML structure
+├── styles.css        # CSS for styling the app
+└── script.js         # JavaScript for functionality
+
+## Technologies Used
+- **HTML5**: For structure.
+- **CSS3**: For styling, including animations and dark/light theme switching.
+- **JavaScript**: For adding, deleting tasks, and handling theme toggle functionality.
+
+## Contributing
+Feel free to fork the repository, make improvements, and submit a pull request. Contributions are welcome!
+
