@@ -12,8 +12,7 @@ A simple and elegant To-Do List web application built with HTML, CSS, and JavaSc
 
 ## Demo
 
-![To-Do App Dark Mode Demo](![Capture1](https://github.com/user-attachments/assets/90ff2d26-709a-4356-9d5f-4317173e1948)
-)  
+(![Capture1](https://github.com/user-attachments/assets/90ff2d26-709a-4356-9d5f-4317173e1948))  
 ## Installation
 
 1. **Clone the Repository**:
